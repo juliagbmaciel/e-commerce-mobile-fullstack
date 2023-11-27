@@ -1,3 +1,3 @@
 # About this project...
-It was an e-commerce made to study and improve my abilities with react native, and I also learned a lot about a backend running on a express server w/ firebase. enjoy :)
+It was an e-commerce made to study and improve my skills with react native, and I also learned a lot about a backend running on a express server w/ firebase. enjoy :)
 (All my commits was not counted, cause I had some little problems)
